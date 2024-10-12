@@ -22,7 +22,7 @@ This extension, built using the **wxt.dev** framework and **React**, automates c
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/<your-github-username>/linkedin-auto-connect.git
+   git clone https://github.com/YachavarapuKarthik/Linkedin-autoconnect-ext.git
    cd linkedin-auto-connect
    ```
 
