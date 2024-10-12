@@ -2,6 +2,7 @@
 
 ### Objective
 This extension, built using the **wxt.dev** framework and **React**, automates connection requests on LinkedIn, allowing users to easily connect with multiple suggested profiles.
+![image](https://github.com/user-attachments/assets/4331accc-ec77-4f96-a3da-94a959c8f876)
 
 ### Assignment Overview
 - **Target URL:** The extension works on the following LinkedIn URL:  
