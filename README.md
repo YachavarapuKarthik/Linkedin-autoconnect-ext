@@ -33,7 +33,7 @@ This extension, built using the **wxt.dev** framework and **React**, automates c
 3. **Run the Development Server**
    Use the following command to start the development server:
    ```bash
-   npm run ddev
+   npm run dev
    ```
 
 5. **Test the Extension**
